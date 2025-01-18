@@ -8,7 +8,7 @@ const PokemonDetails = ({ pokemonName }) => {
     <div className="flex justify-center w-full">
       <div className="rounded-lg p-6 shadow-lg flex flex-col items-center gap-5 w-full mx-5 md:w-1/3 md:mx-0 ">
         {isLoading ? (
-          <p>Loading</p>
+          <p>Loading...</p>
         ) : (
           <>
             <div className="relative flex justify-center w-full">

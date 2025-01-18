@@ -9,7 +9,7 @@ function App() {
         to="/"
         className="font-bold tracking-widest text-3xl mt-5 flex justify-center items-center mb-6"
       >
-        Pokemon
+        PokéVerse - Your Ultimate Pokédex
       </Link>
       <CustomRoutes />
     </>

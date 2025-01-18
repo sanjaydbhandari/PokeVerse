@@ -13,7 +13,7 @@ const Pokedex = () => {
       {/* <h1 className="font-bold tracking-widest text-3xl mt-5">Pokemon</h1> */}
       <input
         className="md:w-1/3 py-3 px-6 rounded-full bg-gray-500 outline-none"
-        placeholder="Search Pokemon Name..."
+        placeholder="Search Valid Pokemon Name..."
         type="search"
         name="search"
         onChange={(e) => debouncedCall(e)}
