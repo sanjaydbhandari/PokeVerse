@@ -7,7 +7,7 @@ function App() {
     <>
       <Link
         to="/"
-        className="font-bold tracking-widest text-3xl mt-5 flex justify-center items-center mb-6"
+        className="font-bold tracking-widest text-3xl mt-5 flex justify-center items-center mb-6 text-center"
       >
         PokéVerse - Your Ultimate Pokédex
       </Link>
